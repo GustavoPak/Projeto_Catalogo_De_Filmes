@@ -1,0 +1,16 @@
+- Fiz a separação em camadas.
+- Modelo se auto-Valida.
+- Utilizei o autoMapper.
+- Usei DTOs.
+- Configurei as regras para o banco de dados no OnModelCreating.
+- Implementei os testes unitários.
+- Duvida na CreatedAtRouteResult ? = Desnecessário.
+- Duvida sobre o tipo dateTime ? = O tipo dele não se formata de um jeito especifico,terá que formatar em outro lugar,como na configuração de serialização
+do json.
+- Implementei a paginação de dados.
+- Formatei as datas configurando o JsonConverter.
+- Implementei o IRepository genérico.
+- Implementei os comentários XML para documentar a API.
+- Configurei o tipo de retorno das actions para Json.
+- Implantei o UnitOfWork.
+- Habilitei o CORS.

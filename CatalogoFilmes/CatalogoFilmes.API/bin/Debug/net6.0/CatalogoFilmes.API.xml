@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CatalogoFilmes.API</name>
+    </assembly>
+    <members>
+        <member name="M:CatalogoFilmes.API.Controllers.FilmesController.Get(CatalogoFilmes.Domain.Pagination.FilmeParameters)">
+            <summary>
+            Obtem Filmes filtrados por páginas
+            </summary>
+            <param name="filmesParameters">Parametros do filme(Query)</param>
+            <returns>Objeto Filme</returns>
+        </member>
+        <member name="M:CatalogoFilmes.API.Controllers.FilmesController.GetById(System.Int32)">
+            <summary>
+            Obtem uma categoria pelo seu Id
+            </summary>
+            <param name="id"> Forneça o Id do filme</param>
+            <returns>Objeto Filme</returns>
+        </member>
+        <member name="M:CatalogoFilmes.API.Controllers.FilmesController.Post(CatalogoFilmes.Application.DTO.FilmeDTO)">
+            <summary>
+             Inclui uma nova categoria
+            </summary>
+            <remarks>
+            Exemplo de Request:
+            
+                  POST api/Filmes
+                  {
+                    "Titulo" : "BladeRunners",
+                    "Descricao" : "Filme de ação",
+                    "Autor" : "Paulo Mikael",
+                    "Lancamento" : "03-02-2001"
+                  }
+            </remarks>
+            <param name="filmeDto"></param>
+            <returns>Retorna um objeto FilmeDTO</returns>
+        </member>
+        <member name="M:CatalogoFilmes.API.Controllers.FilmesController.Deletemany(CatalogoFilmes.Application.DTO.ArrayRemoveDTO)">
+            <summary>
+            Remove vários filmes do catálogo
+            </summary>
+            <remarks>
+            Exemplo de request:
+            
+                   POST /Filmes/DeletarVarios    
+                   {
+                     "Array" : [1,2,3]
+                   } 
+            </remarks>
+            <param name="arrayremove">Id do filme</param>
+            <returns>Retorna o codigo 201(Concluido)</returns>
+        </member>
+        <member name="M:CatalogoFilmes.API.Controllers.FilmesController.Put(System.Int32,CatalogoFilmes.Application.DTO.FilmeDTO)">
+            <summary>
+            Atualiza o Filme Selecionado
+            </summary>
+            <remarks>
+            Exemplo de Request:
+            
+                  PUT api/Filmes
+                  {
+                    "Titulo" : "BladeRunners",
+                    "Descricao" : "Filme de ação",
+                    "Autor" : "Paulo Mikael",
+                    "Lancamento" : "03-02-2001"
+                  }
+            </remarks>
+            <returns>Objeto Filme</returns> 
+        </member>
+        <member name="M:CatalogoFilmes.API.Controllers.FilmesController.Delete(System.Int32)">
+            <summary>
+            Deleta um filme do catalogo
+            </summary>
+            <param name="id">Id do filme</param>
+            <returns>Retorna o codigo 200(Ok)</returns>
+        </member>
+    </members>
+</doc>

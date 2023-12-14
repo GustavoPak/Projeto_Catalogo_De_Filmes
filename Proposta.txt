@@ -1,0 +1,18 @@
+Exercício: API de Catálogo de Filmes
+
+Objetivo:
+Construir uma API que permita aos usuários listar filmes, adicionar um novo filme, atualizar dados de um filme existente e deletar um filme do catálogo.
+
+Especificações:
+
+Entidade Filme: Deve ter um ID, Título, Descrição, Diretor e Data de Lançamento.
+
+Endpoints:
+- Listar todos os filmes.
+- Obter detalhes de um único filme.
+- Adicionar um filme ao catálogo.
+- Atualizar um filme existente.
+- Remover um filme do catálogo.
+- Remover vários filmes do catálogo.
+
+Prazo máximo: 13/12

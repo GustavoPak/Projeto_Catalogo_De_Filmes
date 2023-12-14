@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhmwPGK/nQZu7AZP/komfqL1Gqn4F9gGTkJaHYcW17E+0gjUfaXLlDa0fAOI8J0/8bctHRl8YYrdSwh14zR0Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
