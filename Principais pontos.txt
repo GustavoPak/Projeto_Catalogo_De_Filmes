@@ -14,3 +14,5 @@ do json.
 - Configurei o tipo de retorno das actions para Json.
 - Implantei o UnitOfWork.
 - Habilitei o CORS.
+- Implementei o sistema Notifier que trata os erros do modelo relatando ao cliente
+- Implementei o sistema de exception,onde me é devolvido o erro especifico com uma formatação bem melhor.
