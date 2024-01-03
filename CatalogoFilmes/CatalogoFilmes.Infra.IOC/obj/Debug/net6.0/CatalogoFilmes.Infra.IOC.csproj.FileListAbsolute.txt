@@ -40,3 +40,4 @@ C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.I
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Infra.IOC\obj\Debug\net6.0\CatalogoFilmes.Infra.IOC.pdb
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Infra.IOC\obj\Debug\net6.0\CatalogoFilmes.Infra.IOC.genruntimeconfig.cache
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Infra.IOC\obj\Debug\net6.0\ref\CatalogoFilmes.Infra.IOC.dll
+C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Infra.IOC\obj\Debug\net6.0\CatalogoFilmes.Infra.IOC.sourcelink.json

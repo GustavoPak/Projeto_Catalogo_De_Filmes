@@ -200,3 +200,4 @@ C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.A
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.API\bin\Debug\net6.0\System.Web.Http.dll
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.API\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.API\obj\Debug\net6.0\CatalogoFilmes.API.sourcelink.json

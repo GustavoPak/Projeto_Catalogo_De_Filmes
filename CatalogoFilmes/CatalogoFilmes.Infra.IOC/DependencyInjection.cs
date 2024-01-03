@@ -15,6 +15,8 @@ using CatalogoFilmes.Infra.Data.Repositories;
 using CatalogoFilmes.Application.Interfaces;
 using CatalogoFilmes.Application.Services;
 using CatalogoFilmes.Domain.Entities;
+using CatalogoFilmes.Application.Utilities;
+using CatalogoFilmes.Application.Validators;
 
 namespace CatalogoFilmes.Infra.IOC
 {
@@ -27,7 +29,9 @@ namespace CatalogoFilmes.Infra.IOC
             services.AddDbContext<AppDbContext>(p => p.UseSqlServer(config.GetConnectionString("DefaultConnection"),
                 b => b.MigrationsAssembly(typeof(AppDbContext).Assembly.FullName)));
 
+            services.AddScoped<FilmeValidator>();
             services.AddScoped<IFilmeService, FilmeService>();
+            services.AddScoped<INotificator, Notificator>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             return services;

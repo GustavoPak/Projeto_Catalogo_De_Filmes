@@ -27,6 +27,8 @@ namespace CatalogoFilmes.Infra.Data.Repositories
             await _context.SaveChangesAsync();
         }
 
+        public async Task<bool> Committ() => await _context.SaveChangesAsync() > 0;
+
         public async Task Dispose()
         {
             await _context.DisposeAsync();

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CatalogoFilmes.Domain.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f2704f6350cf661efbc3d384234e2393e0187c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CatalogoFilmes.Domain.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CatalogoFilmes.Domain.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

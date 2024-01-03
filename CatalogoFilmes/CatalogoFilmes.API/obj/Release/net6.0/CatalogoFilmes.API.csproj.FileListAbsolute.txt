@@ -87,6 +87,7 @@ C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.A
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.API\obj\Release\net6.0\CatalogoFilmes.API.csproj.CoreCompileInputs.cache
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.API\obj\Release\net6.0\CatalogoFilmes.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.API\obj\Release\net6.0\CatalogoFilmes.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.API\obj\Release\net6.0\CatalogoFilmes.API.sourcelink.json
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.API\obj\Release\net6.0\staticwebassets.build.json
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.API\obj\Release\net6.0\staticwebassets.development.json
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.API\obj\Release\net6.0\staticwebassets\msbuild.CatalogoFilmes.API.Microsoft.AspNetCore.StaticWebAssets.props

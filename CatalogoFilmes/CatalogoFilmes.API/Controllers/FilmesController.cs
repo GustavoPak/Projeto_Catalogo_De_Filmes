@@ -5,17 +5,17 @@ using CatalogoFilmes.Application.Interfaces;
 using System.Globalization;
 using CatalogoFilmes.Domain.Pagination;
 using System.Net;
+using CatalogoFilmes.Domain.Entities;
 
 namespace CatalogoFilmes.API.Controllers
 {
-    [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
-    public class FilmesController : ControllerBase
+    public class FilmesController : BaseController
     {
         private IFilmeService _filmeService;
 
-        public FilmesController(IFilmeService filmeService)
+        public FilmesController(IFilmeService filmeService, IServiceProvider service) : base(service)
         {
             _filmeService = filmeService;
         }
@@ -27,13 +27,13 @@ namespace CatalogoFilmes.API.Controllers
         /// <returns>Objeto Filme</returns>
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<FilmeDTO>>> Get([FromQuery] FilmeParameters filmesParameters)
+        public async Task<IActionResult> Get([FromQuery] FilmeParameters filmesParameters)
         {
             var filmes = await _filmeService.ObterFilmes(filmesParameters);
 
             if (filmes == null)
             {
-                return BadRequest("Erro do servidor...");
+                return CustomResponse();
             }
 
             return Ok(filmes);
@@ -46,13 +46,13 @@ namespace CatalogoFilmes.API.Controllers
         /// <returns>Objeto Filme</returns>
 
         [HttpGet("{id:int}", Name = "GetMovie")]
-        public async Task<ActionResult<IEnumerable<FilmeDTO>>> GetById(int id)
+        public async Task<IActionResult> GetById(int id)
         {
             var filme = await _filmeService.ObterFilmeDetalhe(id);
 
             if (filme == null)
             {
-                return BadRequest("Filme inexistente no banco de dados...");
+                return NotFound("Filme inexistente no banco de dados...");
             }
 
             return Ok(filme);
@@ -76,17 +76,31 @@ namespace CatalogoFilmes.API.Controllers
         /// <returns>Retorna um objeto FilmeDTO</returns>
 
         [HttpPost]
-        public async Task<ActionResult<FilmeDTO>> Post(FilmeDTO filmeDto)
+        public async Task<IActionResult> Post(FilmeDTO filmeDto)
         {
-            if (filmeDto == null)
-            {
-                return BadRequest("Valores não fornecidos");
-            }
+           
 
-            await _filmeService.AdicionarFilme(filmeDto);
+            if (filmeDto == null) return BadRequest("Valores não fornecidos");
 
-            return new CreatedAtRouteResult("GetMovie", new { Id = filmeDto.Id }, filmeDto);
+            var filme = await _filmeService.AdicionarFilmee(filmeDto);
+
+            if (filme == null) return CustomResponse();
+
+            return Ok(filme);
         }
+
+        //[HttpPost]
+        //public async Task<IActionResult> Post(FilmeDTO filmeDto)
+        //{
+        //    if (filmeDto == null)
+        //    {
+        //        return BadRequest("Valores não fornecidos");
+        //    }
+
+        //    await _filmeService.AdicionarFilme(filmeDto);
+
+        //    return new CreatedAtRouteResult("GetMovie", new { Id = filmeDto.Id }, filmeDto);
+        //}
 
         /// <summary>
         /// Remove vários filmes do catálogo
@@ -103,7 +117,7 @@ namespace CatalogoFilmes.API.Controllers
         /// <returns>Retorna o codigo 201(Concluido)</returns>
 
         [HttpPost("/Filmes/DeletarVarios")]
-        public async Task<ActionResult> Deletemany(ArrayRemoveDTO arrayremove)
+        public async Task<IActionResult> Deletemany(ArrayRemoveDTO arrayremove)
         {
             if(arrayremove == null)
             {
@@ -132,8 +146,10 @@ namespace CatalogoFilmes.API.Controllers
         /// <returns>Objeto Filme</returns> 
 
         [HttpPut]
-        public async Task<IActionResult> Put(int id,[FromBody] FilmeDTO filme)
+        public async Task<IActionResult> Put(int id,FilmeDTO filme)
         {
+
+            throw new Exception();
 
             if (filme == null)
             {

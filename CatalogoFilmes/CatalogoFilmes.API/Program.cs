@@ -3,6 +3,7 @@ using System.Reflection;
 using System.Security.Cryptography.X509Certificates;
 using CatalogoFilmes.Infra.IOC;
 using CustomConverter = CatalogoFilmes.Application.Converters;
+using CatalogoFilmes.Application.Middlewares;
 
 
 namespace CatalogoFilmes.API
@@ -22,7 +23,7 @@ namespace CatalogoFilmes.API
             builder.Services.AddControllers()
                 .AddJsonOptions(options =>
                 {
-              //      options.JsonSerializerOptions.Converters.Add(new CustomConverter.DateTimeConverter());
+                    //      options.JsonSerializerOptions.Converters.Add(new CustomConverter.DateTimeConverter());
                 });
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -37,11 +38,11 @@ namespace CatalogoFilmes.API
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
+
+            app.UseSwagger();
+            app.UseSwaggerUI();
+
+            app.UseMiddleware<ExceptionMiddlware>();
 
             app.UseHttpsRedirection();
 

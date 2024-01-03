@@ -28,3 +28,4 @@ C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.A
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Application\obj\Debug\net6.0\refint\CatalogoFilmes.Application.dll
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Application\obj\Debug\net6.0\CatalogoFilmes.Application.pdb
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Application\obj\Debug\net6.0\ref\CatalogoFilmes.Application.dll
+C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Application\obj\Debug\net6.0\CatalogoFilmes.Application.sourcelink.json

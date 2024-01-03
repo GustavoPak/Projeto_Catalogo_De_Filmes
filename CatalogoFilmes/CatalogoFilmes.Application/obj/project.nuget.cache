@@ -1,11 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "xhmwPGK/nQZu7AZP/komfqL1Gqn4F9gGTkJaHYcW17E+0gjUfaXLlDa0fAOI8J0/8bctHRl8YYrdSwh14zR0Vw==",
+  "dgSpecHash": "TMwX5l5uW7cjz4sA+Fcttheqw8alJIcgepFgdAWdwteGjrUKxYbQT91mltkBw5HxrYcP0G8OhQMA6X1RcHfx8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -11,5 +11,7 @@ namespace CatalogoFilmes.Domain.Repositories
         IFilmeRepository FilmeRepository { get; }
 
         Task Commit();
+
+        Task<bool> Committ();
     }
 }

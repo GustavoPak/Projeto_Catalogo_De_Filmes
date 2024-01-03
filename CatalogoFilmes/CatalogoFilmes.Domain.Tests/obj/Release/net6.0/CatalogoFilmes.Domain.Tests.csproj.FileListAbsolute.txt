@@ -104,3 +104,4 @@ C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.D
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Domain.Tests\obj\Release\net6.0\CatalogoFilmes.Domain.Tests.pdb
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Domain.Tests\obj\Release\net6.0\CatalogoFilmes.Domain.Tests.genruntimeconfig.cache
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Domain.Tests\obj\Release\net6.0\ref\CatalogoFilmes.Domain.Tests.dll
+C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Domain.Tests\obj\Release\net6.0\CatalogoFilmes.Domain.Tests.sourcelink.json

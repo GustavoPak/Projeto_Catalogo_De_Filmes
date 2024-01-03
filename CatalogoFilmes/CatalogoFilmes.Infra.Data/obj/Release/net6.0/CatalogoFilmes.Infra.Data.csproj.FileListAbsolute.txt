@@ -9,6 +9,7 @@ C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.I
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Infra.Data\obj\Release\net6.0\CatalogoFilmes.Infra.Data.AssemblyInfoInputs.cache
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Infra.Data\obj\Release\net6.0\CatalogoFilmes.Infra.Data.AssemblyInfo.cs
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Infra.Data\obj\Release\net6.0\CatalogoFilmes.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Infra.Data\obj\Release\net6.0\CatalogoFilmes.Infra.Data.sourcelink.json
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Infra.Data\obj\Release\net6.0\CatalogoFilmes.Infra.Data.csproj.CopyComplete
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Infra.Data\obj\Release\net6.0\CatalogoFilmes.Infra.Data.dll
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Infra.Data\obj\Release\net6.0\refint\CatalogoFilmes.Infra.Data.dll

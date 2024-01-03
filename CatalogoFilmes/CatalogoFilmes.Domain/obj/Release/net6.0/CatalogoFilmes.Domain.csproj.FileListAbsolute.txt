@@ -5,6 +5,7 @@ C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.D
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Domain\obj\Release\net6.0\CatalogoFilmes.Domain.AssemblyInfoInputs.cache
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Domain\obj\Release\net6.0\CatalogoFilmes.Domain.AssemblyInfo.cs
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Domain\obj\Release\net6.0\CatalogoFilmes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Domain\obj\Release\net6.0\CatalogoFilmes.Domain.sourcelink.json
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Domain\obj\Release\net6.0\CatalogoFilmes.Domain.dll
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Domain\obj\Release\net6.0\refint\CatalogoFilmes.Domain.dll
 C:\Users\Gustavo\Desktop\Pojeto-CatalogoDeFilmes\CatalogoFilmes\CatalogoFilmes.Domain\obj\Release\net6.0\CatalogoFilmes.Domain.pdb

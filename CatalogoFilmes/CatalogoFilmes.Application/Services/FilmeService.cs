@@ -1,36 +1,62 @@
 ﻿using AutoMapper;
 using CatalogoFilmes.Application.DTO;
 using CatalogoFilmes.Application.Interfaces;
+using CatalogoFilmes.Application.Validators;
 using CatalogoFilmes.Domain.Entities;
 using CatalogoFilmes.Domain.Pagination;
 using CatalogoFilmes.Domain.Repositories;
+using CatalogoFilmes.Domain.Utilities;
+using System.ComponentModel.DataAnnotations;
 
 namespace CatalogoFilmes.Application.Services
 {
-    public class FilmeService : IFilmeService
+    public class FilmeService : ServiceBase,IFilmeService
     {
-        private readonly IUnitOfWork _uof;
-        private readonly IMapper _mapper;
+        
+        private readonly FilmeValidator _validator;
 
-        public FilmeService(IUnitOfWork unitOfWork, IMapper mapper)
+        public FilmeService(IServiceProvider service, FilmeValidator validator) : base(service)
         {
-            _uof = unitOfWork;
-            _mapper = mapper;
+            _validator = validator;
         }
 
-        public async Task AdicionarFilme(FilmeDTO filme)
+        //public async Task AdicionarFilme(FilmeDTO filme)
+        //{
+
+        //    Filme destinFilme = _mapper.Map<Filme>(filme);
+
+        //    if (_validator.Validate(destinFilme){
+        //        return null;
+        //    }
+
+        //    await _uof.FilmeRepository.Add(destinFilme);
+        //    await _uof.Commit();
+        //}
+
+        public async Task<Filme> AdicionarFilmee(FilmeDTO filme)
         {
             Filme destinFilme = _mapper.Map<Filme>(filme);
 
+            if (_validator.Validate(destinFilme))
+            {
+                return null;
+            }
+
             await _uof.FilmeRepository.Add(destinFilme);
-            await _uof.Commit();
+
+            if (!await _uof.Committ())
+            {
+                Notify(EnumTipoNofication.ServerError, "Ocorreu um erro ao salvar os dados...");
+                return null;
+            }
+            return destinFilme;
         }
 
         public async Task AtualizarFilme(FilmeDTO filme)
         {
             Filme destinFilme = _mapper.Map<Filme>(filme);
 
-             _uof.FilmeRepository.Update(destinFilme);
+            _uof.FilmeRepository.Update(destinFilme);
             await _uof.Commit();
         }
 
@@ -47,7 +73,14 @@ namespace CatalogoFilmes.Application.Services
         {
             IEnumerable<Filme> filmes = await _uof.FilmeRepository.GetAll(filmeParameters);
 
+            if (filmes == null)
+            {
+                Notify(EnumTipoNofication.Informacao, "Nenhum filme encontrado...");
+                return null;
+            }
+
             IEnumerable<FilmeDTO> filmesDto = _mapper.Map<IEnumerable<FilmeDTO>>(filmes);
+            
 
             return filmesDto;
         }
