@@ -1,0 +1,489 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF503BF-4F20-40F7-800E-89DEF5AA32FB}|CatalogoFilmes.API\\CatalogoFilmes.API.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.api\\controllers\\filmescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF503BF-4F20-40F7-800E-89DEF5AA32FB}|CatalogoFilmes.API\\CatalogoFilmes.API.csproj|solutionrelative:catalogofilmes.api\\controllers\\filmescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.application\\services\\filmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|solutionrelative:catalogofilmes.application\\services\\filmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF503BF-4F20-40F7-800E-89DEF5AA32FB}|CatalogoFilmes.API\\CatalogoFilmes.API.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF503BF-4F20-40F7-800E-89DEF5AA32FB}|CatalogoFilmes.API\\CatalogoFilmes.API.csproj|solutionrelative:catalogofilmes.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF503BF-4F20-40F7-800E-89DEF5AA32FB}|CatalogoFilmes.API\\CatalogoFilmes.API.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.api\\middlewares\\exceptionmiddlware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF503BF-4F20-40F7-800E-89DEF5AA32FB}|CatalogoFilmes.API\\CatalogoFilmes.API.csproj|solutionrelative:catalogofilmes.api\\middlewares\\exceptionmiddlware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.domain\\utilities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|solutionrelative:catalogofilmes.domain\\utilities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.application\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|solutionrelative:catalogofilmes.application\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.domain\\entities\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|solutionrelative:catalogofilmes.domain\\entities\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.application\\validators\\filmevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|solutionrelative:catalogofilmes.application\\validators\\filmevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.application\\utilities\\notificator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|solutionrelative:catalogofilmes.application\\utilities\\notificator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.application\\catalogofilmes.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|solutionrelative:catalogofilmes.application\\catalogofilmes.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|solutionrelative:catalogofilmes.domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA8E2BD-234F-4B2B-A8D3-B2E1AF293FEB}|CatalogoFilmes.Infra.IOC\\CatalogoFilmes.Infra.IOC.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA8E2BD-234F-4B2B-A8D3-B2E1AF293FEB}|CatalogoFilmes.Infra.IOC\\CatalogoFilmes.Infra.IOC.csproj|solutionrelative:catalogofilmes.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEF7D42-72B7-4603-A6BF-0BE3A95CA540}|CatalogoFilmes.Domain.Tests\\CatalogoFilmes.Domain.Tests.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.domain.tests\\filmeunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEF7D42-72B7-4603-A6BF-0BE3A95CA540}|CatalogoFilmes.Domain.Tests\\CatalogoFilmes.Domain.Tests.csproj|solutionrelative:catalogofilmes.domain.tests\\filmeunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.application\\interfaces\\ifilmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|solutionrelative:catalogofilmes.application\\interfaces\\ifilmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3084D52E-AB15-4E7A-8C67-0208C7D38F23}|CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.infra.data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3084D52E-AB15-4E7A-8C67-0208C7D38F23}|CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj|solutionrelative:catalogofilmes.infra.data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3084D52E-AB15-4E7A-8C67-0208C7D38F23}|CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.infra.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3084D52E-AB15-4E7A-8C67-0208C7D38F23}|CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj|solutionrelative:catalogofilmes.infra.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.application\\interfaces\\inotificator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|solutionrelative:catalogofilmes.application\\interfaces\\inotificator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.application\\dto\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|solutionrelative:catalogofilmes.application\\dto\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF503BF-4F20-40F7-800E-89DEF5AA32FB}|CatalogoFilmes.API\\CatalogoFilmes.API.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF503BF-4F20-40F7-800E-89DEF5AA32FB}|CatalogoFilmes.API\\CatalogoFilmes.API.csproj|solutionrelative:catalogofilmes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.domain\\pagination\\filmeparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|solutionrelative:catalogofilmes.domain\\pagination\\filmeparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.domain\\repositories\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|solutionrelative:catalogofilmes.domain\\repositories\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3084D52E-AB15-4E7A-8C67-0208C7D38F23}|CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.infra.data\\repositories\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3084D52E-AB15-4E7A-8C67-0208C7D38F23}|CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj|solutionrelative:catalogofilmes.infra.data\\repositories\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|solutionrelative:catalogofilmes.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.application\\converters\\datetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|solutionrelative:catalogofilmes.application\\converters\\datetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.application\\dto\\arrayremovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|solutionrelative:catalogofilmes.application\\dto\\arrayremovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.application\\mapper\\domaintodtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523D1811-963B-4FE7-8486-2E09478E512F}|CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj|solutionrelative:catalogofilmes.application\\mapper\\domaintodtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEF7D42-72B7-4603-A6BF-0BE3A95CA540}|CatalogoFilmes.Domain.Tests\\CatalogoFilmes.Domain.Tests.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.domain.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEF7D42-72B7-4603-A6BF-0BE3A95CA540}|CatalogoFilmes.Domain.Tests\\CatalogoFilmes.Domain.Tests.csproj|solutionrelative:catalogofilmes.domain.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFADCADE-E0C0-420A-A181-8152CE5B90AA}|CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj|solutionrelative:catalogofilmes.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF503BF-4F20-40F7-800E-89DEF5AA32FB}|CatalogoFilmes.API\\CatalogoFilmes.API.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_catalogo_de_filmes\\catalogofilmes\\catalogofilmes.api\\catalogofilmes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AF503BF-4F20-40F7-800E-89DEF5AA32FB}|CatalogoFilmes.API\\CatalogoFilmes.API.csproj|solutionrelative:catalogofilmes.api\\catalogofilmes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilmeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Validators\\FilmeValidator.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Application\\Validators\\FilmeValidator.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Validators\\FilmeValidator.cs",
+              "RelativeToolTip": "CatalogoFilmes.Application\\Validators\\FilmeValidator.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:22.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.IOC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Infra.IOC\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.IOC\\DependencyInjection.cs",
+              "RelativeToolTip": "CatalogoFilmes.Infra.IOC\\DependencyInjection.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:22.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Services\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Application\\Services\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Services\\ServiceBase.cs",
+              "RelativeToolTip": "CatalogoFilmes.Application\\Services\\ServiceBase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:22.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmesController.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.API\\Controllers\\FilmesController.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.API\\Controllers\\FilmesController.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.API\\Controllers\\FilmesController.cs",
+              "RelativeToolTip": "CatalogoFilmes.API\\Controllers\\FilmesController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwEcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:22.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Utilities\\Notification.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Domain\\Utilities\\Notification.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Utilities\\Notification.cs",
+              "RelativeToolTip": "CatalogoFilmes.Domain\\Utilities\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:22.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Notificator.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Utilities\\Notificator.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Application\\Utilities\\Notificator.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Utilities\\Notificator.cs",
+              "RelativeToolTip": "CatalogoFilmes.Application\\Utilities\\Notificator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:22.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmeService.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Services\\FilmeService.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Application\\Services\\FilmeService.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Services\\FilmeService.cs",
+              "RelativeToolTip": "CatalogoFilmes.Application\\Services\\FilmeService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwE4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:22.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilmeUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain.Tests\\FilmeUnitTest.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Domain.Tests\\FilmeUnitTest.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain.Tests\\FilmeUnitTest.cs",
+              "RelativeToolTip": "CatalogoFilmes.Domain.Tests\\FilmeUnitTest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:22.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.API\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "CatalogoFilmes.API\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAwwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:22.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Entities\\Filme.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Domain\\Entities\\Filme.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Entities\\Filme.cs",
+              "RelativeToolTip": "CatalogoFilmes.Domain\\Entities\\Filme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:22.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionMiddlware.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.API\\Middlewares\\ExceptionMiddlware.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.API\\Middlewares\\ExceptionMiddlware.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.API\\Middlewares\\ExceptionMiddlware.cs",
+              "RelativeToolTip": "CatalogoFilmes.API\\Middlewares\\ExceptionMiddlware.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:22.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "INotificator.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Interfaces\\INotificator.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Application\\Interfaces\\INotificator.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Interfaces\\INotificator.cs",
+              "RelativeToolTip": "CatalogoFilmes.Application\\Interfaces\\INotificator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:22.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CatalogoFilmes.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj",
+              "RelativeToolTip": "CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T14:37:22.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Domain\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "CatalogoFilmes.Domain\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFilmeService.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Interfaces\\IFilmeService.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Application\\Interfaces\\IFilmeService.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Interfaces\\IFilmeService.cs",
+              "RelativeToolTip": "CatalogoFilmes.Application\\Interfaces\\IFilmeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Infra.Data\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "CatalogoFilmes.Infra.Data\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Infra.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "CatalogoFilmes.Infra.Data\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.API\\Program.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.API\\Program.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.API\\Program.cs",
+              "RelativeToolTip": "CatalogoFilmes.API\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DomainToDTOMapping.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Mapper\\DomainToDTOMapping.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Application\\Mapper\\DomainToDTOMapping.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Mapper\\DomainToDTOMapping.cs",
+              "RelativeToolTip": "CatalogoFilmes.Application\\Mapper\\DomainToDTOMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FilmeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\DTO\\FilmeDTO.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Application\\DTO\\FilmeDTO.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\DTO\\FilmeDTO.cs",
+              "RelativeToolTip": "CatalogoFilmes.Application\\DTO\\FilmeDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DateTimeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Converters\\DateTimeConverter.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Application\\Converters\\DateTimeConverter.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\Converters\\DateTimeConverter.cs",
+              "RelativeToolTip": "CatalogoFilmes.Application\\Converters\\DateTimeConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FilmeParameters.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Pagination\\FilmeParameters.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Domain\\Pagination\\FilmeParameters.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Pagination\\FilmeParameters.cs",
+              "RelativeToolTip": "CatalogoFilmes.Domain\\Pagination\\FilmeParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Domain\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "CatalogoFilmes.Domain\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IFilmeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Repositories\\IFilmeRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Domain\\Repositories\\IFilmeRepository.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Repositories\\IFilmeRepository.cs",
+              "RelativeToolTip": "CatalogoFilmes.Domain\\Repositories\\IFilmeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Domain.Tests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "CatalogoFilmes.Domain.Tests\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FilmeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\Repositories\\FilmeRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Infra.Data\\Repositories\\FilmeRepository.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\Repositories\\FilmeRepository.cs",
+              "RelativeToolTip": "CatalogoFilmes.Infra.Data\\Repositories\\FilmeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "CatalogoFilmes.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ArrayRemoveDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\DTO\\ArrayRemoveDTO.cs",
+              "RelativeDocumentMoniker": "CatalogoFilmes.Application\\DTO\\ArrayRemoveDTO.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\DTO\\ArrayRemoveDTO.cs",
+              "RelativeToolTip": "CatalogoFilmes.Application\\DTO\\ArrayRemoveDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:37:23.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CatalogoFilmes.API.csproj",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.API\\CatalogoFilmes.API.csproj",
+              "RelativeDocumentMoniker": "CatalogoFilmes.API\\CatalogoFilmes.API.csproj",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.API\\CatalogoFilmes.API.csproj",
+              "RelativeToolTip": "CatalogoFilmes.API\\CatalogoFilmes.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T14:37:23.115Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

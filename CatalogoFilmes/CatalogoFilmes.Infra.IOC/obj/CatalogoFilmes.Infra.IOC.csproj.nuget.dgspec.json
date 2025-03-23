@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Infra.IOC\\CatalogoFilmes.Infra.IOC.csproj": {}
+    "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.IOC\\CatalogoFilmes.Infra.IOC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj": {
+    "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj",
+        "projectUniqueName": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj",
         "projectName": "CatalogoFilmes.Application",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj",
-        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Application\\obj\\",
+        "projectPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj",
+        "packagesPath": "C:\\Users\\gutsk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gutsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj": {
-                "projectPath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj"
+              "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj": {
+                "projectPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj"
               }
             }
           }
@@ -43,7 +43,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -73,29 +79,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj": {
+    "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj",
         "projectName": "CatalogoFilmes.Domain",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj",
-        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\obj\\",
+        "projectPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj",
+        "packagesPath": "C:\\Users\\gutsk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gutsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -117,7 +137,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -133,29 +159,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj": {
+    "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj",
         "projectName": "CatalogoFilmes.Infra.Data",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\obj\\",
+        "projectPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\gutsk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gutsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -171,8 +211,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj": {
-                "projectPath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj"
+              "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj": {
+                "projectPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Domain\\CatalogoFilmes.Domain.csproj"
               }
             }
           }
@@ -181,7 +221,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -224,24 +270,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Infra.IOC\\CatalogoFilmes.Infra.IOC.csproj": {
+    "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.IOC\\CatalogoFilmes.Infra.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Infra.IOC\\CatalogoFilmes.Infra.IOC.csproj",
+        "projectUniqueName": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.IOC\\CatalogoFilmes.Infra.IOC.csproj",
         "projectName": "CatalogoFilmes.Infra.IOC",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Infra.IOC\\CatalogoFilmes.Infra.IOC.csproj",
-        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Infra.IOC\\obj\\",
+        "projectPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.IOC\\CatalogoFilmes.Infra.IOC.csproj",
+        "packagesPath": "C:\\Users\\gutsk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.IOC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gutsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -257,11 +303,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj": {
-                "projectPath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj"
+              "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj": {
+                "projectPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Application\\CatalogoFilmes.Application.csproj"
               },
-              "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\Gustavo\\Desktop\\Pojeto-CatalogoDeFilmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj"
+              "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Catalogo_De_Filmes\\CatalogoFilmes\\CatalogoFilmes.Infra.Data\\CatalogoFilmes.Infra.Data.csproj"
               }
             }
           }
@@ -270,7 +316,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -305,7 +357,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

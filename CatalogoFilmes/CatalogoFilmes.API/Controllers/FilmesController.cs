@@ -84,6 +84,8 @@ namespace CatalogoFilmes.API.Controllers
 
             var filme = await _filmeService.AdicionarFilmee(filmeDto);
 
+            var teste = "Esse é um teste inutil";
+
             if (filme == null) return CustomResponse();
 
             return Ok(filme);
